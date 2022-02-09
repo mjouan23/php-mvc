@@ -1,0 +1,50 @@
+.logo{
+  height: 70px;
+}
+
+main{
+  margin-top: 110px;
+}
+
+h1{
+  color: #29ABE2;
+  font-size: 2.5rem;
+  margin-bottom: 1.5em;
+}
+
+h2{
+  font-size: 1.5rem;
+}
+h5{
+  font-size: 1rem;
+}
+
+.website-title{
+  color: #5a5a5a;
+  font-family: 'Lato', sans-serif;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 58px;
+}
+
+#pages .card{
+  height: 10rem;
+}
+#pages .card-text{
+  font-size: 1rem;
+}
+
+#pages .card-title{
+  font-size: .8rem;
+}
+.square{
+  width: 3rem;
+  height: 3rem;
+}
+
+#home section .item{
+  height: 5rem;
+}
+#home .title{
+  font-size: .8rem;
+}
